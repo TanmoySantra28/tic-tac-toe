@@ -22,7 +22,7 @@ pip install pygame
 1. Clone the repository or download the ZIP file:
 
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/TanmoySantra28/tic-tac-toe.git
    ```
 
 2. Navigate to the project directory:
@@ -34,10 +34,8 @@ pip install pygame
 3. Run the game:
 
    ```bash
-   python tic_tac_toe.py
+   python tictactoe.py
    ```
-
-   (Replace `tic_tac_toe.py` with the name of your main Python file if it's different.)
 
 ## Controls
 
