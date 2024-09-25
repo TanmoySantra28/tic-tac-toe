@@ -54,6 +54,10 @@ pip install pygame
 - `tic_tac_toe.py`: The main file containing the game logic and graphical interface.
 - `README.md`: This file containing project documentation.
 
+## Images
+
+![image](https://github.com/user-attachments/assets/0833bc57-3e33-4394-bd89-7418b20bac3e) ![image](https://github.com/user-attachments/assets/bf969c5e-ed03-4515-ae09-d427795049ff)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
